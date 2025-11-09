@@ -102,5 +102,7 @@ We have 3 different types of districts, around 700 unique district names, 1 acad
 ### WAGE_YEAR4
 ![WAGE_YEAR4](plots/hist_WAGE_YEAR4.png)
 
+As is shown in the following histograms made in the jupyter notebook, the numerical columns showcase a range of values from 0 to 6000000, representing the individual district code of each line in the csv. For the remaining numerical columns, the ranges fluctuate but generally fall within 0 and ~100,000. Specifically, the range for WAGE_YEAR1 is 0-97993.0, WAGE_YEAR2 is 0-132847.0, WAGE_YEAR3 is 0-146728.0 and WAGE_YEAR4 is 0-153910.0. Looking at the histograms, we can see that none of the data is normally distributed within all of the numerical columns.
+
 3. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 
